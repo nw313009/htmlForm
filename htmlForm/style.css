@@ -1,0 +1,11 @@
+body{
+    padding:10px
+}
+form{
+    display:flex;
+    flex-direction: column;
+    max-width:250px;
+}
+input{
+    margin:5px;
+}
